@@ -1,0 +1,70 @@
+# =========================
+# 📦 BACKEND (Java / Maven)
+# =========================
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+/backend/src/main/resources/application.properties
+
+# IDEs comunes
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+# ==========================
+# 🎨 FRONTEND (React / Vite)
+# ==========================
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.env
+/frontend/.DS_Store
+
+# =====================
+# 🛠️ Editores y Sistema
+# =====================
+.vscode/
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ==================
+# 🪵 Logs generales
+# ==================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ======================
+# ✅ Exclusiones explícitas
+# ======================
+!**/src/main/**/target/
+!**/src/test/**/target/
+!**/src/main/**/build/
+!**/src/test/**/build/
