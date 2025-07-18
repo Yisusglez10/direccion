@@ -177,6 +177,13 @@ Esto iniciará el frontend en:
 
 ---
 
+## 🌐 Versión en línea
+
+Puedes ver el proyecto en funcionamiento aquí:  
+🔗 [https://direccion.yisusglez.com](https://direccion.yisusglez.com)
+
+---
+
 ## 🧑‍💻 Autor
 
 Desarrollado por **José de Jesús González Téllez**  
